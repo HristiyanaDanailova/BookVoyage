@@ -54,5 +54,5 @@ Welcome to my Airbnb clone project built with the MERN (MongoDB, Express, React,
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/yourusername/airbnb-clone.git](https://github.com/HristiyanaDanailova/BookVoyage.git)https://github.com/HristiyanaDanailova/BookVoyage.git
+   git clone https://github.com/HristiyanaDanailova/BookVoyage.git
 
