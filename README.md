@@ -71,6 +71,13 @@ Welcome to my Airbnb clone project built with the MERN (MongoDB, Express, React,
    ```
 
 4. **Configure the .env file in /server**
+   
    Create a new **.env** file in the server directory.
-   Add your MongoDB connection string and any other environment variables required for the server. You can use the env-example file in the server directory for        reference 
+   Add your MongoDB connection string and any other environment variables required for the server. You can use the env-example.txt file in the server directory for    reference
+
+5. **Run**
+
+   Run
+   ``` npm nodemon ``` in /server
+   and ```npm start ``` in /client
    
