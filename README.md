@@ -60,6 +60,7 @@ Welcome to my Airbnb clone project built with the MERN (MongoDB, Express, React,
 
    ```
    cd BookVoyage
+   ```
    
 3. **Install dependencies:**
  
@@ -67,4 +68,5 @@ Welcome to my Airbnb clone project built with the MERN (MongoDB, Express, React,
 
    ```
    npm install
+   ```
    
