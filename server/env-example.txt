@@ -1,0 +1,4 @@
+MONGO_CONNECTION=mongodb+srv://<username>:<password>@cluster0.mongodb.net/test?retryWrites=true&w=majority
+PORT=4000
+ACCESS_TOKEN_SECRET_KEY=adhferhg35t245trhiarh34t
+REFRESH_TOKEN_SECRET_KEY=adhferhgfh4745tr7fje6sgr
