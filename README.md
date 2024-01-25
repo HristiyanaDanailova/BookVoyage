@@ -77,7 +77,16 @@ Welcome to my Airbnb clone project built with the MERN (MongoDB, Express, React,
 
 5. **Run**
 
-   Run
-   ``` npm nodemon ``` in /server
-   and ```npm start ``` in /client
+   Run the following command in /client
+   
+   ```
+   npm start
+   ```
+
+   Run the following command in /server
+
+   ```
+   nodemon index
+   ```
+   
    
