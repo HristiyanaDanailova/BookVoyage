@@ -89,4 +89,22 @@ Welcome to my Airbnb clone project built with the MERN (MongoDB, Express, React,
    nodemon index
    ```
    
-   
+## Usage
+
+1. Open your browser and navigate to [http://localhost:3000](http://localhost:3000).
+
+2. Register or log in to start using the Airbnb clone.
+
+3. Explore places, book your desired destination, and manage your bookings.
+
+## Screenshots
+
+[Add screenshots or links to screenshots to showcase different aspects of your application.]
+
+## Contributing
+
+Contributions are welcome! If you have any ideas, suggestions, or find issues, please open an [issue](https://github.com/yourusername/airbnb-clone/issues) or submit a [pull request](https://github.com/yourusername/airbnb-clone/pulls).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
