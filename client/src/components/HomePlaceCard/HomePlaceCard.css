@@ -1,0 +1,17 @@
+.fade-in-style {
+  animation: fade-in 1.5s;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 100;
+  }
+}
+
+.img-height-place-card {
+  height: 270px;
+}

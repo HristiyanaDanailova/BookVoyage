@@ -1,0 +1,48 @@
+.place-page-content {
+    width: 80%;
+    margin-left: 130px;
+}
+
+.text-margin {
+    margin-left: 15px;
+}
+
+.details-font-size {
+    font-size: 1.1em;
+}
+
+.line-width-house-rules {
+    width: 87%;
+}
+
+.description-font-size {
+    font-size: 1.15em;
+    padding-right: 70px;
+}
+
+.extraInfo-text {
+    font-size: 1.15em;
+    color: rgb(142, 140, 140);
+}
+
+.profile-photo-size {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+
+}
+
+.leaflet-container {
+    height: 50vh;
+}
+
+/*
+
+.photos-button{
+    margin-right: 170px;
+}
+
+
+
+*/

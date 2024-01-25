@@ -1,0 +1,35 @@
+.gadget-button-hover:hover {
+    box-shadow: 3px 3px 6px rgb(222, 222, 222);
+}
+
+.gadget-button-hover {
+    z-index: 1;
+}
+
+.carousel-width {
+    width: 85%;
+}
+
+.feature-button {
+    border: none;
+    background-color: white;
+    border-bottom: 3px solid white;
+    font-size: 0.8em;
+    color: rgb(108, 105, 105);
+}
+
+.feature-button:hover {
+    border: none;
+    background-color: white;
+    border-bottom: 3px solid rgb(197, 197, 197);
+    color: black;
+
+}
+
+.feature-button-clicked {
+    border: none;
+    background-color: white;
+    font-size: 0.8em;
+    border-bottom: 3px solid rgb(0, 0, 0);
+    color: black;
+}

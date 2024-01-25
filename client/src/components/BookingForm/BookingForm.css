@@ -1,0 +1,14 @@
+.book-button {
+    border-radius: 30px;
+    font-size: 1.3em;
+    color: white;
+    background-color: rgb(236, 43, 78);
+    border: 1px solid rgb(236, 43, 78);
+    padding: 10px;
+}
+
+[disabled] {
+    cursor: not-allowed;
+    background-color: rgb(220, 118, 137);
+    border: 1px solid rgb(220, 118, 137);
+}

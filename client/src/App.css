@@ -1,0 +1,25 @@
+* {
+  font-family: "Monaco" monospace
+}
+
+input[type="email"],
+input[type="password"],
+input[type="text"],
+input[type="number"],
+input[type="checkbox"],
+input[type="tel"],
+input[type="time"],
+textarea {
+  margin: 15px;
+  padding: 8px;
+  padding-left: 20px;
+  display: block;
+  align-items: center;
+  border: 1px solid rgb(201, 196, 196);
+  border-radius: 10px;
+  font-size: 1em;
+}
+
+textarea {
+  height: 100px;
+}

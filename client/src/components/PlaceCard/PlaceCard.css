@@ -1,0 +1,8 @@
+.places-list-description {
+    font-size: 1.1em;
+}
+
+.place-img-card {
+    min-height: 340px;
+    max-height: 360px;
+}

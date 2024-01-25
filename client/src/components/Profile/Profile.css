@@ -1,0 +1,27 @@
+.logout-button {
+    border-radius: 30px;
+    font-size: 1.2em;
+    color: white;
+    background-color: rgb(236, 43, 78);
+    border: 1px solid rgb(236, 43, 78);
+    padding: 10px;
+}
+
+.profile-image {
+    width: 180px;
+    height: 180px;
+}
+
+.update-profile-button {
+    border-radius: 30px;
+    font-size: 1.2em;
+    color: white;
+    background-color: rgb(236, 43, 78);
+    border: 1px solid rgb(236, 43, 78);
+    padding: 10px;
+}
+
+.update-photo-button {
+    color: rgb(236, 43, 78);
+    cursor: pointer;
+}

@@ -1,0 +1,45 @@
+#navbar-title {
+    color: rgb(236, 43, 78);
+    position: absolute;
+    top: 36%;
+    left: 115%;
+}
+
+#navbar-luggage-icon {
+    position: absolute;
+    top: 20%;
+    left: 2.5%;
+}
+
+#navbar-add-place {
+    position: absolute;
+    top: 30%;
+    left: 82%;
+    padding: 10px;
+
+}
+
+#navbar-user-icon {
+    position: absolute;
+    top: 20%;
+    left: 91%;
+}
+
+#navbar-add-place:hover {
+    background-color: rgb(244, 242, 242);
+    border-radius: 20px;
+}
+
+.custom-color-profile {
+    background-color: rgb(131, 128, 130);
+}
+
+.custom-color-profile-logged {
+    background-color: rgb(171, 171, 171);
+}
+
+.img-profile-photo {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+}

@@ -1,0 +1,40 @@
+#navbar-searchbar {
+    position: absolute;
+    top: 20%;
+    left: 35%;
+}
+
+.custom-color-searchbar {
+    background-color: rgb(236, 43, 78);
+}
+
+
+#input-destination-search-bar {
+    width: 92px;
+    background-color: rgb(255, 255, 255);
+}
+
+#input-destination-search-bar:focus {
+    width: 92px;
+    outline: none;
+    background-color: rgb(255, 255, 255);
+}
+
+#input-guests-search-bar {
+    width: 115px;
+
+    outline: none;
+}
+
+.collapse-dates {
+    right: 10px;
+    top: 50px;
+}
+
+.dates-button {
+    width: 100px;
+}
+
+.dates-text {
+    text-overflow: ellipsis;
+}

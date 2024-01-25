@@ -1,0 +1,13 @@
+.login-button {
+    width: 30vw;
+    border-radius: 30px;
+    font-size: 1.4em;
+    color: white;
+    background-color: rgb(236, 43, 78);
+    border: 1px solid rgb(236, 43, 78);
+    padding: 10px;
+}
+
+.login-input {
+    width: 30vw;
+}

@@ -1,0 +1,41 @@
+.place-more-photos-format {
+    width: 60%;
+    height: auto;
+    object-fit: cover;
+    margin-left: 250px;
+
+}
+
+.place-more-photos {
+    background-color: rgb(29, 29, 29);
+    position: absolute;
+    inset: 0;
+    height: fit-content;
+
+}
+
+.place-more-photos-container {
+    margin-top: 30px;
+    overflow: hidden;
+}
+
+.close-photos-button {
+    margin-left: 250px;
+    margin-bottom: 25px;
+    padding: 8px 12px;
+    position: fixed;
+    background-color: rgb(130, 128, 128);
+    border: solid 2px rgb(130, 128, 128);
+    color: rgb(255, 255, 255);
+    font-size: 1.2em;
+}
+
+.place-cover-photo {
+    width: 100%;
+    height: 600px;
+}
+
+.place-side-photo {
+    width: 100%;
+    height: 290px;
+}

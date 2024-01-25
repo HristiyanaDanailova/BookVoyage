@@ -1,0 +1,19 @@
+.action-icon {
+    cursor: pointer;
+}
+
+.uploaded-img-places {
+    max-height: 300px;
+}
+
+#upload-file-button {
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    max-height: 300px;
+}
+
+.add-photo-button {
+    height: 55px;
+    margin-top: 2px;
+}

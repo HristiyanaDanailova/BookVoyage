@@ -1,0 +1,47 @@
+.fade-in-style {
+  animation: fade-in 1.5s;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 100;
+  }
+}
+
+.no-match-width {
+  width: 550px;
+}
+
+.pagination {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.1rem;
+  gap: 4px;
+  margin-top: 70px;
+}
+
+.pagination .page-num {
+  padding: 8px 15px;
+  cursor: pointer;
+  border-radius: 20px;
+  font-weight: 400;
+  text-decoration: none;
+  color: black;
+}
+
+.pagination .page-num:hover {
+  background-color: rgb(236, 43, 78);
+  color: white;
+  border-radius: 20px;
+}
+
+.pagination .active {
+  background-color: rgb(236, 43, 78);
+  color: white;
+}
