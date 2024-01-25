@@ -98,7 +98,6 @@ Welcome to my Airbnb clone project built with the MERN (MongoDB, Express, React,
 
 ## Screenshots
 
-[Add screenshots or links to screenshots to showcase different aspects of your application.]
 
 
 ## License
