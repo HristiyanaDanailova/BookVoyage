@@ -9,7 +9,6 @@ Welcome to my Airbnb clone project built with the MERN (MongoDB, Express, React,
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Technologies Used
@@ -86,14 +85,14 @@ Welcome to my Airbnb clone project built with the MERN (MongoDB, Express, React,
    Run the following command in /server
 
    ```
-   nodemon index
+   node index
    ```
    
 ## Usage
 
 1. Open your browser and navigate to [http://localhost:3000](http://localhost:3000).
 
-2. Register or log in to start using the Airbnb clone.
+2. Register or log in to start using BookVoyage.
 
 3. Explore places, book your desired destination, and manage your bookings.
 
@@ -101,9 +100,6 @@ Welcome to my Airbnb clone project built with the MERN (MongoDB, Express, React,
 
 [Add screenshots or links to screenshots to showcase different aspects of your application.]
 
-## Contributing
-
-Contributions are welcome! If you have any ideas, suggestions, or find issues, please open an [issue](https://github.com/yourusername/airbnb-clone/issues) or submit a [pull request](https://github.com/yourusername/airbnb-clone/pulls).
 
 ## License
 
