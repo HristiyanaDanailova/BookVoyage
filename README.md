@@ -58,7 +58,12 @@ Welcome to my Airbnb clone project built with the MERN (MongoDB, Express, React,
 
 2. **Install dependencies:**
 
-   Navigate to the /server and /client folders and run the following command
+   Navigate to the project directory 
+
+   ```
+   cd BookVoyage
+
+   Run the following command in both the /server and the /client folders
 
    ```
    npm install
