@@ -153,7 +153,7 @@ BookVoyage is a project built with the MERN (MongoDB, Express, React, Node.js) s
 #### Search by destination and number of guests
 ![Search-by-destination-and-guests](screenshots/search-bar-valid-2.png)
 #### Search by destination
-![Search-by-destination](screenshots/search-bar-valid-1/png)
+![Search-by-destination](screenshots/search-bar-valid-1.png)
 #### Search by destination and dates
 ![Search-by-destination-and-dates](screenshots/search-bar-dates.png)
 #### No result search
