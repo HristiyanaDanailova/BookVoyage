@@ -1,6 +1,6 @@
 # BookVoyage - Airbnb Clone with MERN Stack
 
-Welcome to my Airbnb clone project built with the MERN (MongoDB, Express, React, Node.js) stack. This project is a simplified version of Airbnb, featuring user registration and authentication, place management, and booking functionality.
+BookVoyage is a project built with the MERN (MongoDB, Express, React, Node.js) stack. It is a simplified version of Airbnb, featuring user registration and authentication, place management, and booking functionality.
 
 ## Table of Contents
 
