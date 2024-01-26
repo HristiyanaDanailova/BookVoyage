@@ -112,11 +112,25 @@ Welcome to my Airbnb clone project built with the MERN (MongoDB, Express, React,
 
 ## Screenshots
 
-### User Registration/Login
-#### Register
+### 1. User Registration/Login
+#### Register page
 ![Registration](screenshots/register.png)
-#### Login
+#### Login page
 ![Login](screenshots/login.png)
+
+### 2. User profile
+#### Default profile page
+![Default-profile-page](screenshots/default-profile.png)
+#### Edit profile modal
+![Edit-profile-modal](screenshots/profile-modal.png)
+#### Edited profile page
+![Edited-profile-page](screenshots/profile-info.png)
+#### User places
+![Places](screenshots/places.png)
+#### User bookings
+![Bookings](screenshots/bookings.png)
+
+
 
 ## License
 
