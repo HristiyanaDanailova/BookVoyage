@@ -10,18 +10,32 @@ Welcome to my Airbnb clone project built with the MERN (MongoDB, Express, React,
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [License](#license)
-
+  
 ## Technologies Used
+### Frontend
 
-- MongoDB: Database to store user and place information
-- Express.js: Backend framework for building the server
-- React: Frontend library for building user interfaces
-- Node.js: JavaScript runtime for server-side development
-- Bootstrap: Used for styling and responsive design
-- JSON Web Token (JWT): Authentication mechanism
-- React Router Dom: For navigation within the React app
-- React Hook Form: Library for managing form state and validation
-- Yup: JavaScript schema builder for form validation
+- **React:** JavaScript library for building user interfaces.
+- **React Router Dom:** Declarative routing for React.js.
+- **React Hook Form:** Library for managing forms in React.
+- **Yup:** JavaScript schema builder for form validation.
+- **Axios:** Promise-based HTTP client for making requests.
+- **Leaflet:** Open-source JavaScript library for interactive maps.
+- **React Leaflet:** React components for Leaflet maps.
+- **Date-fns:** Modern JavaScript date utility library.
+- **React Paginate:** A ReactJS component to render a pagination.
+
+### Backend
+
+- **Express:** Web application framework for Node.js.
+- **Mongoose:** MongoDB object modeling for Node.js.
+- **JWT (JSON Web Token):** JSON-based open standard for creating access tokens.
+- **Multer:** Node.js middleware for handling multipart/form-data.
+- **Cors:** Cross-Origin Resource Sharing middleware for Express.
+- **Dotenv:** Zero-dependency module that loads environment variables.
+- **Express Validator:** Middleware for request validation in Express.js.
+- **Cookie Parser:** Middleware for parsing HTTP cookies.
+- **Image Downloader:** Node.js library for downloading images from the internet.
+
 
 ## Features
 
