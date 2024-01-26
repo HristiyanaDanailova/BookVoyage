@@ -125,12 +125,41 @@ Welcome to my Airbnb clone project built with the MERN (MongoDB, Express, React,
 ![Edit-profile-modal](screenshots/profile-modal.png)
 #### Edited profile page
 ![Edited-profile-page](screenshots/profile-info.png)
-#### User places
+#### User places page
 ![Places](screenshots/places.png)
-#### User bookings
+#### User bookings page
 ![Bookings](screenshots/bookings.png)
 
+### 3.Places
+#### Add place page
+![Add-place](screenshots/add-place.png)
+#### Edit place page
+![Edit-place](screenshots/edit-place.png)
+#### Place page
+![Place-page](screenshots/place-page.png)
 
+### 4. Bookings
+#### Book place form
+![Book-place-form](screenshots/booking-form.png)
+#### Booking page
+![Booking-page](screenshots/booking-page.png)
+
+### 5. Home page
+#### Home page
+![Home-page-1](screenshots/home.png)
+![Home-page-2](screenshots/home-2.png)
+#### Search by feature
+![Feature-search](screenshots/feature-search-valid.png)
+#### Search by destination and number of guests
+![Search-by-destination-and-guests](screenshots/search-bar-valid-2.png)
+#### Search by destination
+![Search-by-destination](screenshot/search-bar-valid-1/png)
+#### Search by destination and dates
+![Search-by-destination-and-dates](screenshots/search-bar-dates.png)
+#### No result search
+![No-result-search](screenshots/search-bar-invalid.png)
+#### Invalid URL page
+![Invalid-URL-page](screenshots/invalid-url.png)
 
 ## License
 
